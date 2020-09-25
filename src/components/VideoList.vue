@@ -11,7 +11,7 @@
 </template>
 
 <script>
-import VideoListItem from './VideoListItem'
+import VideoListItem from './VideoListItem' //test
 export default {
     name: 'VideoList',
     components: {
